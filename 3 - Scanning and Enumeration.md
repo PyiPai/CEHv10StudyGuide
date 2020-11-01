@@ -54,6 +54,8 @@
     | 443         | HTTPS    | TCP                |
     | 445         | SMB      | TCP                |
     | 514         | SYSLOG   | UDP                |
+    | 515         |          |printer spooler     |
+    | 631         |          |ipp internet print  |
 
   - A service is said to be **listening** for a port when it has that specific port open
 
