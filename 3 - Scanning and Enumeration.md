@@ -44,6 +44,7 @@
     | 67          | DHCP     | UDP                |
     | 69          | TFTP     | UDP                |
     | 80          | HTTP     | TCP                |
+    | 88          | Keberos  | TCP                |
     | 110         | POP3     | TCP                |
     | 135         | RPC      | TCP                |
     | 137-139     | NetBIOS  | TCP/UDP            |
